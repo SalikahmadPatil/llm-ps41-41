@@ -1,0 +1,56 @@
+{
+  "prompt": "Compare resume and job. Return JSON with a score, matched skills, missing skills and suggestions.",
+  "runs": [
+    {
+      "id": "analyst",
+      "response": {
+        "score": 0.8,
+        "matched skills": [
+          "SQL",
+          "Excel"
+        ],
+        "missing skills": [
+          "Python",
+          "Tableau"
+        ],
+        "suggestions": [
+          "Add Python skills",
+          "Add Tableau skills"
+        ]
+      }
+    },
+    {
+      "id": "backend",
+      "response": {
+        "score": 100,
+        "matched skills": [
+          "Python",
+          "Flask",
+          "SQLite"
+        ],
+        "missing skills": [],
+        "suggestions": []
+      }
+    },
+    {
+      "id": "design",
+      "response": {
+        "score": 0.5,
+        "matched skills": [
+          "Figma",
+          "Illustrator",
+          "typography"
+        ],
+        "missing skills": [
+          "Python",
+          "SQL",
+          "Docker"
+        ],
+        "suggestions": [
+          "Consider adding Python, SQL, and Docker skills to your resume to match the required skills in the job description.",
+          "Highlight your experience with Figma and Illustrator to show proficiency in visual design."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "analyst",
+    "job": "Required skills: SQL, Excel, Tableau.",
+    "expected_matches": [
+      "Excel",
+      "SQL"
+    ],
+    "expected_missing": [
+      "Tableau"
+    ]
+  },
+  {
+    "id": "backend",
+    "job": "Required skills: Python, Flask, SQLite.",
+    "expected_matches": [
+      "Flask",
+      "Python",
+      "SQLite"
+    ],
+    "expected_missing": []
+  },
+  {
+    "id": "design",
+    "job": "Required skills: Python, SQL, Docker.",
+    "expected_matches": [],
+    "expected_missing": [
+      "Docker",
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "id": "reporting",
+    "job": "Required skills: SQL, Excel, Power BI, DAX.",
+    "expected_matches": [
+      "Excel",
+      "Power BI",
+      "SQL"
+    ],
+    "expected_missing": [
+      "DAX"
+    ]
+  },
+  {
+    "id": "operations",
+    "job": "Required skills: Linux, Docker, Kubernetes.",
+    "expected_matches": [
+      "Linux"
+    ],
+    "expected_missing": [
+      "Docker",
+      "Kubernetes"
+    ]
+  }
+]

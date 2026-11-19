@@ -1,0 +1,96 @@
+[
+  {
+    "id": "analyst",
+    "result": {
+      "matched_skills": [
+        "SQL",
+        "Excel"
+      ],
+      "missing_skills": [
+        "Tableau"
+      ],
+      "match_score": 67,
+      "tips": [
+        "Consider learning Tableau as it is a crucial skill for data analysts.",
+        "Highlight your experience with Tableau in your resume to demonstrate your proficiency.",
+        "Look for online courses or workshops to improve your Tableau skills."
+      ]
+    },
+    "skill_lists_correct": true
+  },
+  {
+    "id": "backend",
+    "result": {
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "SQLite"
+      ],
+      "missing_skills": [],
+      "match_score": 100,
+      "tips": [
+        "Ensure your resume highlights all required skills, including Python, Flask, and SQLite.",
+        "Consider adding relevant projects or certifications to demonstrate your expertise.",
+        "Highlight any additional skills or experience that align with the job description."
+      ]
+    },
+    "skill_lists_correct": true
+  },
+  {
+    "id": "design",
+    "result": {
+      "matched_skills": [],
+      "missing_skills": [
+        "Python",
+        "SQL",
+        "Docker"
+      ],
+      "match_score": 0,
+      "tips": [
+        "Identify the specific skills required for the job and focus on acquiring them. For example, if the job requires Python, SQL, and Docker, start learning these programming languages and database management systems.",
+        "Create a detailed plan to learn the missing skills. Break down the learning process into manageable steps and set achievable goals.",
+        "Document your learning journey by keeping a journal or using a learning management system. This will help you track your progress and stay motivated."
+      ]
+    },
+    "skill_lists_correct": true
+  },
+  {
+    "id": "reporting",
+    "result": {
+      "matched_skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "missing_skills": [
+        "DAX"
+      ],
+      "match_score": 75,
+      "tips": [
+        "DAX is a key skill for data analysis and should be included in the resume.",
+        "Consider adding DAX knowledge to the resume to improve the match score.",
+        "Highlight any experience or projects that demonstrate proficiency in DAX."
+      ]
+    },
+    "skill_lists_correct": true
+  },
+  {
+    "id": "operations",
+    "result": {
+      "matched_skills": [
+        "Linux"
+      ],
+      "missing_skills": [
+        "Docker",
+        "Kubernetes"
+      ],
+      "match_score": 33,
+      "tips": [
+        "Docker and Kubernetes are essential for modern cloud operations. Consider learning Docker Compose or Kubernetes documentation to enhance your skills.",
+        "Expand your knowledge by learning Docker and Kubernetes. This will help you manage and deploy applications more effectively in the cloud.",
+        "Start by learning Docker and Kubernetes. This will provide a solid foundation for managing cloud operations and deploying applications."
+      ]
+    },
+    "skill_lists_correct": true
+  }
+]
